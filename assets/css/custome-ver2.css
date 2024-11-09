@@ -1238,14 +1238,14 @@ main {
 }
 
 .skills-categories {
-  display: flex;
-  flex-wrap: wrap;
+  margin-bottom: 20px;
 }
 
-.skills-category .skills-header {
-  margin-bottom: 20px;
+.skills-header {
+  margin-bottom: 10px;
   font-size: 20px;
   color: var(--vegas-gold);
+  border-bottom: 1px solid gray;
 }
 
 .skills-category {
